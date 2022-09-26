@@ -18,6 +18,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://codeforces.com/profile/ersahinceumut">
-    <img src="https://cp-logo.vercel.app/codeforces/ersahinceumut" alt="Codeforces Badge"/>
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces Badge"/>
   </a>
 </div>
