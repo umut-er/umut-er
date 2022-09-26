@@ -17,10 +17,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Umut Utku ERŞAHİNCE</h1>
 <h3 align="center">A student at Bilkent University '22</h3>
 
-<div align="center">
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=umut-er" alt="umut-er" /></a> </p>
-<div/>
-
 - 🔭 I’m currently working on **a wide range of projects that interest me.**
 
 - 🌱 I’m currently learning **Java.**
