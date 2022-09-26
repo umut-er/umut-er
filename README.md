@@ -31,8 +31,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/umut-utku-erşahince-9a2003251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umut utku erşahince" height="30" width="40" /></a>
-
+<a href="https://linkedin.com/in/umut-utku-erşahince-9a2003251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umut utku erşahince" height="30" width="40" /></a> 
 <a href="https://codeforces.com/profile/ersahinceumut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ersahinceumut" height="30" width="40" /></a>
 </p>
 
