@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **ersahinceumut@gmail.com**
 
-- ⚡ Fun fact **I am an enjoyer of classical music as well as literature. I play classical guitar.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/umut-utku-erşahince-9a2003251" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="umut utku erşahince" height="30" width="40" /></a> 
