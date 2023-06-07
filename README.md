@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **anything really, if you want to collaborate just inform me.**
 
-- 🤝 I’m looking for help with **coding standarts and general good practices. If you have advice on my projects please contact me.**
-
 - 📫 How to reach me **ersahinceumut@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
