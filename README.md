@@ -17,12 +17,6 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Umut Utku ERŞAHİNCE</h1>
 <h3 align="center">A student at Bilkent University '22</h3>
 
-- 🔭 I’m currently working on **a wide range of projects that interest me.**
-
-- 🌱 I’m currently learning **Java.**
-
-- 👯 I’m looking to collaborate on **anything really, if you want to collaborate just inform me.**
-
 - 📫 How to reach me **ersahinceumut@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
